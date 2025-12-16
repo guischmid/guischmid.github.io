@@ -1,0 +1,7 @@
+title: "Guilherme Schmid"
+description: "Portfolio"
+theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
